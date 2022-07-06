@@ -29,6 +29,7 @@ Hyper Text Mark-up Language
 What is CSS useful for?
 
 Making a website look nice
+Styling our HTML page.
 
 ## Question 6
 
@@ -44,12 +45,13 @@ h1 {
 What is JavaScript?
 
 A programming language used on the browser
+Jave Script is a HIgh Level, Object oriented prigramming Language.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-Is for version control of the code ( to Track every changes on the code)
+Is for version control of the code ( to Track every changes on the code) GitHub is website that we can use Git.
 
 ## Question 9
 
@@ -85,7 +87,7 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+A place for us to store and share our code.( not quiet right) 
 
 ## Question 15
 
